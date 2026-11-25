@@ -1,0 +1,12 @@
+{
+  "verified_on":"2026-11-25",
+  "brand":"Lund Fixar",
+  "legal_form":"Not independently verified; do not render AB or organisation number",
+  "email":"info@lundfixar.se",
+  "phone":"0722-322 480",
+  "tel":"+46722322480",
+  "base":"Romelanda",
+  "primary_area":"Kungälv med omnejd",
+  "sources":["https://www.lundfixar.se/","https://www.lundfixar.se/om-oss/","https://www.lundfixar.se/tjanster/","https://www.lundfixar.se/varan-utrustning/","https://www.lundfixar.se/3d-utskrifter/","https://www.lundfixar.se/fotogalleri/","https://www.lundfixar.se/kontakta-oss/"],
+  "discrepancies":["Cached /en/ page has old Outlook address and spring campaign. Live Swedish root and contact page consistently use info@lundfixar.se; current contact page gives Romelanda instead of earlier Kungälv-only location.","Original hero cloudfront image is a flat blue/white placeholder; new hero uses company ATV photograph from equipment page.","No exact customer/project count inferred from gallery groups; four genuine source groups contain33workphotos. Group2Sten/trappor may include multiple jobs; not presented as one identified client project.","Source35photos on3Dpage are examples, not priced products or promised technical capacity. Neutral labels retain source context. No identification of persons portrayed in busts.","Original Twitter and Instagram links are platform handles, omitted. Reco badge/widgets not rendered as verified numeric rating or fabricated reviews.","No source-price/guarantee/RUTpercentage/insurance/certificate claims copied as new promises. Source seasonal tomte service retained as inquiry only, without availability or booking confirmation."]
+}

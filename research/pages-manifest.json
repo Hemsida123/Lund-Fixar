@@ -1,0 +1,51 @@
+[
+  {
+    "file": "research/pages/utrustning.html",
+    "url": "https://www.lundfixar.se/varan-utrustning/",
+    "retrieved": "2026-11-25",
+    "bytes": 63432,
+    "sha256": "a6497342a17faaa84515c158734367aca3c2f0223487bc5d3bdb70b93a32afb9"
+  },
+  {
+    "file": "research/pages/home.html",
+    "url": "https://www.lundfixar.se/",
+    "retrieved": "2026-11-25",
+    "bytes": 63752,
+    "sha256": "58125fa4b7b81e1b3836bcea4d23d45bcc9b93d052e79eea6effd35e0e4f6b77"
+  },
+  {
+    "file": "research/pages/galleri.html",
+    "url": "https://www.lundfixar.se/fotogalleri/",
+    "retrieved": "2026-11-25",
+    "bytes": 123135,
+    "sha256": "978e0f055f07e3d745941f3bf225f7219c0ff173130cf4dde957a345c7180b2f"
+  },
+  {
+    "file": "research/pages/tjanster.html",
+    "url": "https://www.lundfixar.se/tjanster/",
+    "retrieved": "2026-11-25",
+    "bytes": 62637,
+    "sha256": "9a627c4c754ac4e68fcb097c5e62ce0cc3c0144a969299be0a38534f398a7094"
+  },
+  {
+    "file": "research/pages/3d.html",
+    "url": "https://www.lundfixar.se/3d-utskrifter/",
+    "retrieved": "2026-11-25",
+    "bytes": 117919,
+    "sha256": "1518f4e9757fcbd1912cdc3eb839a7059c4c1d45beb6e26e8a68a3574ed7ca16"
+  },
+  {
+    "file": "research/pages/om-oss.html",
+    "url": "https://www.lundfixar.se/om-oss/",
+    "retrieved": "2026-11-25",
+    "bytes": 55575,
+    "sha256": "9587c076e41ba058f077b7ea37897a2580ace6a19d026c2070f8dd38690f2ac5"
+  },
+  {
+    "file": "research/pages/kontakt.html",
+    "url": "https://www.lundfixar.se/kontakta-oss/",
+    "retrieved": "2026-11-25",
+    "bytes": 63392,
+    "sha256": "05afb3f5b24653fc415bc276c863606b7ded24b63144b3e55e8b672856d62efc"
+  }
+]
